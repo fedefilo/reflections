@@ -20,9 +20,15 @@ What are some situations when branches would be helpful in keeping your history 
 	two different working versions of my app, etc.
 
 How do the diagrams help you visualize the branch structure?
+	They help me in tracking the changes and visualizing my
+	work history (and making in understandable).
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	The result is a combined version of the changes made in 
+	the two branches. We represent it that way because it is a union between two pathways.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	Pros: It is inteligent and lets you incorporate two lines of changes alltogether. 
+	Cons: You always have to verify the results. Some unintentional changes may have been made. Resolving merging conflicts can also be time-consuming.
